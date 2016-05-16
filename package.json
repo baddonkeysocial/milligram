@@ -6,7 +6,7 @@
 	"repository": "milligram/milligram",
 	"license": "MIT",
 	"author": "CJ Patoilo <cjpatoilo@gmail.com>",
-	"main": "dist/milligram.css",
+	"main": "src/milligram.sass",
 	"keywords": [
 		"bootstrap",
 		"css",
@@ -39,7 +39,8 @@
 		"gruntfile.js",
 		"package.js",
 		"package.json",
-		"src",
+		"demo",
+		"dist",
 		"test"
 	],
 	"dependencies": {
